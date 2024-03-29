@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+  }
+  
+  ul{
+      list-style-type:none;
+      margin:0;
+      padding:0;
+      
+  }
+  
+  li{
+     float:right; 
+  }
+  
+  a{
+      display:block;
+      padding:5px;
+      text-decoration:none;
+  }
+    
+  h2{
+    text-align: center;
+  }
+ 

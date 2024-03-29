@@ -1,0 +1,29 @@
+body{
+  background-image: url(fairmontmaldives_grand-water-villa-sunset-5_hr_web.jpg);
+  /* background-position: center; */
+  background-repeat:no-repeat ;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    
+}
+
+li{
+   float:right; 
+}
+
+a{
+    display:block;
+    padding:5px;
+    text-decoration:none;
+}
+  
+  h1{
+    text-align: center;
+  }
+ 

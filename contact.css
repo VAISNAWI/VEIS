@@ -1,0 +1,49 @@
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  
+}
+
+li{
+ float:right; 
+}
+
+a{
+  display:block;
+  padding:5px;
+  text-decoration:none;
+}
+
+h1{
+  text-align: center;
+}
+
+
+input[type=text], select {
+    width: 100px;
+    padding: 9px 10px;
+    margin: 3px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button[type=button] {
+    width: 100px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 10px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  div {
+    border-radius: 1px;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  

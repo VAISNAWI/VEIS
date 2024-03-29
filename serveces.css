@@ -1,0 +1,40 @@
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    
+  }
+  
+  li{
+   float:right; 
+  }
+  
+  a{
+    display:block;
+    padding:5px;
+    text-decoration:none;
+  }
+  
+  h1{
+    text-align: center;
+  }
+
+/* services section css */
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #20b8ff;
+}
+.servicesText:hover {
+    border: 1px solid #20b8ff;
+}
